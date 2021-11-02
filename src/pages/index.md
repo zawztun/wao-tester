@@ -51,13 +51,34 @@ intro:
         to help. You can schedule a custom 1-on-1 consultation with our baristas
         to learn anything you want to know about coffee roasting and brewing.
         Email us or call the store for details.
-    - image: /img/meeting-space.png
+    - image: /img/drone-view.png
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        Min Saw Mon's successors in the Kingdom of Mrauk U sought to end the
+        Bengal Sultanate's hegemony. Min Khayi (Ali Khan) was the first to
+        challenge Bengali hegemony. Ba Saw Phyu (Kalima Shah) defeated Bengal
+        Sultan Rukunuddin Barbak Shah in 1459. Min Bin (Zabuk Shah) conquered
+        Chittagong. Taking advantage of the Mughal Empire's invasion campaign of
+        Bengal, the Arakan navy and pirates dominated a coastline of 1000 miles,
+        spanning from the Sundarbans to Moulmein. The kingdom's coastline was
+        frequented by Arab, Dutch, Danish and Portuguese traders. Control of the
+        Kaladan River and Lemro River valleys led to increased international
+        trade, making Mrauk U prosperous. The reigns of Min Phalaung (Sikender
+        Shah), Min Rajagiri (Salim Shah I) and grandson Min Khamaung (Hussein
+        Shah) strengthened the wealth and power of Mrauk U.[8]: 20–21  Arakan
+        colluded in the slave trade with the Portuguese settlement in
+        Chittagong. After conquering the port city of Syriam in the early 1600s,
+        Arakan appointed the Portuguese mercenary Philip De Brito e Nicota as
+        the governor of Syriam. But Nicota later transferred Syriam to the
+        authority of Portuguese India.[8]: 21 
+
+
+
+        The old city wall of Mrauk U
+
+        Even after independence from the Sultans of Bengal, the Arakanese kings continued the custom of maintaining Muslim titles.[20] They compared themselves to Sultans and fashioned themselves after Mughal rulers. They also continued to employ Indians and Muslims in prestigious positions within the royal administration.[21] The court adopted Indian and Islamic fashions from neighbouring Bengal.[21][18] Mrauk U hosted mosques, temples, shrines, seminaries and libraries.[8]: 22  Syed Alaol was a renowned poet of Arakan.[22] Indian and Muslim influence continued on Arakanese affairs for 350 years.
+
+
+        In 1660, Shah Shuja, the brother of Emperor Aurangzeb and a claimant of the Peacock Throne, received asylum in Mrauk U. Members of Shuja's entourage were recruited in the Arakanese army and court. They were kingmakers in Arakan until the Burmese conquest.[23] Arakan suffered a major defeat to the forces of Mughal Bengal during the Battle of Chittagong in 1666, when Mrauk U lost control of southeast Bengal. The Mrauk U dynasty's reign continued until the 18th century.
   heading: Who we are
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
