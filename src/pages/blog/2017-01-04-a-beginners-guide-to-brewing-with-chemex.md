@@ -15,8 +15,7 @@ description: >-
 featuredpost: false
 featuredimage: /img/wao-2021.jpeg
 tags:
-  - brewing
-  - chemex
+  - WAO
 ---
 ![WAO ](/img/109715263_3267383196652655_6496118340244915259_n.jpeg "## WAO and Local NGOs")
 
