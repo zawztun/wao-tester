@@ -103,12 +103,21 @@ main:
     been notable for the exodus of refugees into neighboring countries because
     of military operations by the Tatmadaw (Myanmar Armed Forces).
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    alt: World Arakanese Organization ( WAO) has received acknowledgments of Rakhine
+      Thahaya Association (RTA). And we have received update donations from our
+      partners and benefactors. We acknowledge and appreciate that those which
+      contribute money as meritorious deeds for our people ( IDPS ) of Arakan.
+      Initially, WAO donated separate $6007 (10,000,000 Kyats) to RTA with its
+      own fund. Totally, we have already offered 23, 061, 950 Kyats so far and
+      our initial target is 40, 000, 000 Kyats.
+    image: /img/109715263_3267383196652655_6496118340244915259_n.jpeg
   image2:
     alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    image: /img/nice02.png
   image3:
-    alt: Coffee beans
-    image: /img/products-grid1.jpg
+    alt: As an emergency relief fund to support to IDPS in Arakan, WAO is so far
+      collecting funds and effectively providing rice to the refugees who have
+      got the hungry to feed through Rakhine Thahaya Association. Donation can
+      be sent directly to WAO Zelle account at wao.ca.usa@gmail.com.
+    image: /img/drone-view.png
 ---
