@@ -4,10 +4,14 @@ path: /products
 templateKey: product-page
 title: Current Projects
 image: /img/wao01.jpeg
-description: Kaldi is the ultimate spot for coffee lovers who want to learn
-  about their java’s origin and support the farmers that grew it. We take coffee
-  production, roasting and brewing seriously and we’re glad to pass that
-  knowledge to anyone.
+description: World Arakanese Organization is now collecting fund for English
+  Language Proficiency Class ( General English Class program) of RakkhitA
+  Academy by Win Zaw Htun, Founder and President. The program is a marvellious
+  opportunity to students who are thirsting for education in Arakan. Earning in
+  education is the most important, effective, and expensive element and it can
+  change our family, community, and country. According to Nelson Mandela, Former
+  President of South Africa, “ Education is the most powerful weapon which you
+  can use to change the world.”
 intro:
   blurbs:
     - image: /img/109715263_3267383196652655_6496118340244915259_n.jpeg
