@@ -1,15 +1,11 @@
 ---
-templateKey: 'about-page'
+templateKey: about-page
 path: /about
 title: About WAO
 ---
 ### WAO Mission Statement:
 
-
 World Arakanese organization (WAO), founded in 2006 as a non-profit and community-based organization, is committed to supporting Arakanese around the world to create and facilitate the development of value-added human relations society. 
-
-
-### WAO Goals:
 
 To preserve and promote Arakanese language, literature, traditions and cultural heritages that existed for many centuries;
 
