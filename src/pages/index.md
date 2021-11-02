@@ -52,7 +52,7 @@ intro:
         to learn anything you want to know about coffee roasting and brewing.
         Email us or call the store for details.
     - image: /img/drone-view.png
-      text: >
+      text: >+
         Min Saw Mon's successors in the Kingdom of Mrauk U sought to end the
         Bengal Sultanate's hegemony. Min Khayi (Ali Khan) was the first to
         challenge Bengali hegemony. Ba Saw Phyu (Kalima Shah) defeated Bengal
@@ -69,16 +69,8 @@ intro:
         Chittagong. After conquering the port city of Syriam in the early 1600s,
         Arakan appointed the Portuguese mercenary Philip De Brito e Nicota as
         the governor of Syriam. But Nicota later transferred Syriam to the
-        authority of Portuguese India.[8]: 21 
+        authority of Portuguese India.
 
-
-
-        The old city wall of Mrauk U
-
-        Even after independence from the Sultans of Bengal, the Arakanese kings continued the custom of maintaining Muslim titles.[20] They compared themselves to Sultans and fashioned themselves after Mughal rulers. They also continued to employ Indians and Muslims in prestigious positions within the royal administration.[21] The court adopted Indian and Islamic fashions from neighbouring Bengal.[21][18] Mrauk U hosted mosques, temples, shrines, seminaries and libraries.[8]: 22  Syed Alaol was a renowned poet of Arakan.[22] Indian and Muslim influence continued on Arakanese affairs for 350 years.
-
-
-        In 1660, Shah Shuja, the brother of Emperor Aurangzeb and a claimant of the Peacock Throne, received asylum in Mrauk U. Members of Shuja's entourage were recruited in the Arakanese army and court. They were kingmakers in Arakan until the Burmese conquest.[23] Arakan suffered a major defeat to the forces of Mughal Bengal during the Battle of Chittagong in 1666, when Mrauk U lost control of southeast Bengal. The Mrauk U dynasty's reign continued until the 18th century.
   heading: English Language Proficiency  Sponsored by WAO
   description: >
     World Arakanese Organization is now collecting fund for English Language
