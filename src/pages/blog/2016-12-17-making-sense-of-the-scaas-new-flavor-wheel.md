@@ -13,11 +13,7 @@ tags:
   - flavor
   - tasting
 ---
-![](/img/nice01.png)
-
-
-
-## What the updates mean to you
+![](/img/nice01.png "he old capital of Rakhine (Arakan) ")
 
 Mrauk U may seem to be a sleepy village today but not so long ago it was the capital of the Arakan empire where Portuguese, Dutch and French traders rubbed shoulders with the literati of Bengal and Mughal princes on the run. Mrauk U was declared capital of the Arakanese kingdom in 1431. At its peak, Mrauk U controlled half of Bangladesh, modern day Rakhine State (Arakan) and the western part of Lower Burma. Pagodas and temples were built as the city grew, and those that remain are the main attraction of Mrauk-U. From the 15th to 18th centuries, Mrauk U was the capital of a mighty Arakan kingdom, frequently visited by foreign traders (including Portuguese and Dutch), and this is reflected in the grandeur and scope of the structures dotted around its vicinity.\[[1]](https://en.wikipedia.org/wiki/History_of_Rakhine#cite_note-1)
 
