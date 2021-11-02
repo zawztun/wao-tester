@@ -13,7 +13,7 @@ tags:
   - flavor
   - tasting
 ---
-![flavor wheel](/img/nice01.png)
+![](/img/nice01.png)
 
 
 
