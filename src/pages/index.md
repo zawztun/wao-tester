@@ -46,13 +46,17 @@ intro:
 
     - image: /img/wao01.jpeg
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+        World Arakanese Organization is now collecting fund for English Language
+        Proficiency Class ( General English Class program) of RakkhitA Academy
+        by Win Zaw Htun, Founder and President.
+
+        The program is a marvellious opportunity to students who are thirsting for education in Arakan.
+
+        Earning in education is the most important, effective, and expensive element and it can change our family, community, and country.
+
+        According to Nelson Mandela, Former President of South Africa, “ Education is the most powerful weapon which you can use to change the world.”
     - image: /img/drone-view.png
-      text: >
+      text: >+
         Min Saw Mon's successors in the Kingdom of Mrauk U sought to end the
         Bengal Sultanate's hegemony. Min Khayi (Ali Khan) was the first to
         challenge Bengali hegemony. Ba Saw Phyu (Kalima Shah) defeated Bengal
@@ -69,22 +73,19 @@ intro:
         Chittagong. After conquering the port city of Syriam in the early 1600s,
         Arakan appointed the Portuguese mercenary Philip De Brito e Nicota as
         the governor of Syriam. But Nicota later transferred Syriam to the
-        authority of Portuguese India.[8]: 21 
+        authority of Portuguese India.
 
-
-
-        The old city wall of Mrauk U
-
-        Even after independence from the Sultans of Bengal, the Arakanese kings continued the custom of maintaining Muslim titles.[20] They compared themselves to Sultans and fashioned themselves after Mughal rulers. They also continued to employ Indians and Muslims in prestigious positions within the royal administration.[21] The court adopted Indian and Islamic fashions from neighbouring Bengal.[21][18] Mrauk U hosted mosques, temples, shrines, seminaries and libraries.[8]: 22  Syed Alaol was a renowned poet of Arakan.[22] Indian and Muslim influence continued on Arakanese affairs for 350 years.
-
-
-        In 1660, Shah Shuja, the brother of Emperor Aurangzeb and a claimant of the Peacock Throne, received asylum in Mrauk U. Members of Shuja's entourage were recruited in the Arakanese army and court. They were kingmakers in Arakan until the Burmese conquest.[23] Arakan suffered a major defeat to the forces of Mughal Bengal during the Battle of Chittagong in 1666, when Mrauk U lost control of southeast Bengal. The Mrauk U dynasty's reign continued until the 18th century.
-  heading: Who we are
+  heading: English Language Proficiency  Sponsored by WAO
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    World Arakanese Organization is now collecting fund for English Language
+    Proficiency Class ( General English Class program) of RakkhitA Academy by
+    Win Zaw Htun, Founder and President.
+
+    The program is a marvellious opportunity to students who are thirsting for education in Arakan.
+
+    Earning in education is the most important, effective, and expensive element and it can change our family, community, and country.
+
+    According to Nelson Mandela, Former President of South Africa, “ Education is the most powerful weapon which you can use to change the world.”
 main:
   heading: Rakhine State
   description: >
@@ -98,12 +99,27 @@ main:
     been notable for the exodus of refugees into neighboring countries because
     of military operations by the Tatmadaw (Myanmar Armed Forces).
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    alt: World Arakanese Organization ( WAO) has received acknowledgments of Rakhine
+      Thahaya Association (RTA). And we have received update donations from our
+      partners and benefactors. We acknowledge and appreciate that those which
+      contribute money as meritorious deeds for our people ( IDPS ) of Arakan.
+      Initially, WAO donated separate $6007 (10,000,000 Kyats) to RTA with its
+      own fund. Totally, we have already offered 23, 061, 950 Kyats so far and
+      our initial target is 40, 000, 000 Kyats.
+    image: /img/109715263_3267383196652655_6496118340244915259_n.jpeg
   image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    alt: The reigns of Min Phalaung (Sikender Shah), Min Rajagiri (Salim Shah I) and
+      grandson Min Khamaung (Hussein Shah) strengthened the wealth and power of
+      Mrauk U.[8]: 20–21  Arakan colluded in the slave trade with the Portuguese
+      settlement in Chittagong. After conquering the port city of Syriam in the
+      early 1600s, Arakan appointed the Portuguese mercenary Philip De Brito e
+      Nicota as the governor of Syriam. But Nicota later transferred Syriam to
+      the authority of Portuguese India.
+    image: /img/nice02.png
   image3:
-    alt: Coffee beans
-    image: /img/products-grid1.jpg
+    alt: As an emergency relief fund to support to IDPS in Arakan, WAO is so far
+      collecting funds and effectively providing rice to the refugees who have
+      got the hungry to feed through Rakhine Thahaya Association. Donation can
+      be sent directly to WAO Zelle account at wao.ca.usa@gmail.com.
+    image: /img/drone-view.png
 ---

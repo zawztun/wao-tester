@@ -1,29 +1,28 @@
 ---
 templateKey: blog-post
-title: A beginners’ guide to brewing with Chemex
+title: World Arakanese Organization ( WAO) has received acknowledgments of
+  Rakhine Thahaya Association (RTA)
 date: 2017-01-04T15:04:10.000Z
+description: >-
+  World Arakanese Organization (WAO-USA) made a meritorious deed to the two IDPs
+  camps with the generous donors on July 26, 2020.
+
+  WAO donated rice, dried-fish, dried-chilli, pea, onion, pepper, garlic and some cash at the IDPs camp of Shwe Pray Tha Monastery, Kyae Taw Village and at the Aung Chan Tha IDPs camp in Byine Phyu Village, Sittwey Township, Arakan.
+
+  Constantly, donation will be offered to the Shwe Pray Aye IDPs camp, Byine Phyu Village led by Dr. Aye Chan, a patron of WAO, on July 28, 2020.
+
+  WAO have to donate on the way to the Ann and Kyauktaw Township.
 featuredpost: false
-featuredimage: /img/chemex.jpg
-description: Brewing with a Chemex probably seems like a complicated, time-consuming ordeal, but once you get used to the process, it becomes a soothing ritual that's worth the effort every time.
+featuredimage: /img/wao-2021.jpeg
 tags:
-  - brewing
-  - chemex
+  - WAO
 ---
-![chemex](/img/chemex.jpg)
+![WAO ](/img/109715263_3267383196652655_6496118340244915259_n.jpeg "## WAO and Local NGOs")
 
-This week we’ll **take** a look at all the steps required to make astonishing coffee with a Chemex at home. The Chemex Coffeemaker is a manual, pour-over style glass-container coffeemaker that Peter Schlumbohm invented in 1941, and which continues to be manufactured by the Chemex Corporation in Chicopee, Massachusetts.
+For the purpose of donation, for tents and basics needs of internally displaced persons (IDPs) of Arakan, World Arakanese Organization (USA)—with the support of compassionate donors— donates USD 11,800 (16, 000, 000 Kyats) to Rakhine Thahaya Association (Yangon) on July 19, 2020.
 
-In 1958, designers at the [Illinois Institute of Technology](https://www.spacefarm.digital) said that the Chemex Coffeemaker is _"one of the best-designed products of modern times"_, and so is included in the collection of the Museum of Modern Art in New York City.
+## WAO and Local NGOs working together for Rakhine state
 
-## The little secrets of Chemex brewing
+As an emergency relief fund to support to IDPS in Arakan, WAO is so far collecting funds and effectively providing rice to the refugees who have got the hungry to feed through Rakhine Thahaya Association.
 
-The Chemex Coffeemaker consists of an hourglass-shaped glass flask with a conical funnel-like neck (rather than the cylindrical neck of an Erlenmeyer flask) and uses proprietary filters, made of bonded paper (thicker-gauge paper than the standard paper filters for a drip-method coffeemaker) that removes most of the coffee oils, brewing coffee with a taste that is different than coffee brewed in other coffee-making systems; also, the thicker paper of the Chemex coffee filters may assist in removing cafestol, a cholesterol-containing compound found in coffee oils. Here’s three important tips newbies forget about:
-
-1. Always buy dedicated Chemex filters.
-2. Use a scale, don’t try to eyeball it.
-3. Never skip preheating the glass.
-4. Timing is key, don’t forget the clock.
-
-The most visually distinctive feature of the Chemex is the heatproof wooden collar around the neck, allowing it to be handled and poured when full of hot water. This is turned, then split in two to allow it to fit around the glass neck. The two pieces are held loosely in place by a tied leather thong. The pieces are not tied tightly and can still move slightly, retained by the shape of the conical glass.
-
-For a design piece that became popular post-war at a time of Modernism and precision manufacture, this juxtaposition of natural wood and the organic nature of a hand-tied knot with the laboratory nature of glassware was a distinctive feature of its appearance.
+Donation can be sent directly to WAO Zelle account at wao.ca.usa@gmail.com

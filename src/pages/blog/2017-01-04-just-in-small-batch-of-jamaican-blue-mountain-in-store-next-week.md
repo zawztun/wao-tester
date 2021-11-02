@@ -1,34 +1,30 @@
 ---
-templateKey: 'blog-post'
-title: 'Just in: small batch of Jamaican Blue Mountain in store next week'
+templateKey: blog-post
+title: Arakanese language
 date: 2017-01-04T15:04:10.000Z
+description: 'Arakanese (also known as Rakhine /rəˈkaɪn/; Burmese: ရခိုင်ဘာသာ,
+  MLCTS: ra.hkuing bhasa [ɹəkʰàɪɴ bàθà]) is a language closely related to
+  Burmese, of which it is often considered a dialect. "Arakan" is the former
+  name for the Rakhine region. Arakanese can be divided into three dialects:
+  Sittwe–Marma (about two thirds of speakers), Ramree, and Thandwe.[2] It is the
+  native language of the Rakhine, Marma and Kamein peoples.'
 featuredpost: true
-description: >-
-  We’re proud to announce that we’ll be offering a small batch of Jamaica Blue
-  Mountain coffee beans in our store next week.
+featuredimage: /img/nyc-dance.png
 tags:
-  - jamaica
-  - green beans
-  - flavor
-  - tasting
+  - arakan
+  - rakhine
+  - ""
 ---
+## Vocabulary[[edit](https://en.wikipedia.org/w/index.php?title=Arakanese_language&action=edit&section=1 "Edit section: Vocabulary")]
 
-We expect the shipment of a limited quantity of green beans next Monday. We’ll be offering the roasted beans from Tuesday, but quantities are limited, so be quick.
+There are significant vocabulary differences from Standard Burmese. Some are native words with no cognates in Standard Burmese, like "sarong" (လုံခြည် in Standard Burmese, ဒယော in Arakanese). Others are loan words from [Bengali](https://en.wikipedia.org/wiki/Bengali_language "Bengali language"), [English](https://en.wikipedia.org/wiki/English_language "English language"), and [Hindi](https://en.wikipedia.org/wiki/Hindi "Hindi"), not found in Standard Burmese. An example is "hospital," which is called ဆေးရုံ in Standard Burmese, but is called သေပ်လှိုင် (pronounced \[θeɪʔ l̥àɪɴ]/\[ʃeɪʔ l̥àɪɴ]) in Arakanese, from English "sick lines." Other words simply have different meanings (e.g., "afternoon", ညစ in Arakanese and ညနေ in Standard Burmese). Moreover, some archaic words in Standard Burmese are preferred in Arakanese. An example is the first person pronoun, which is အကျွန် in Arakanese (not ကျွန်တော်, as in Standard Burmese).
 
-Blue Mountain Peak is the highest mountain in Jamaica and one of the highest peaks in the Caribbean at 7,402 ft. It is the home of Blue Mountain coffee and their famous tours. It is located on the border of the Portland and Saint Thomas parishes of Jamaica.
+## Phonology[[edit](https://en.wikipedia.org/w/index.php?title=Arakanese_language&action=edit&section=3 "Edit section: Phonology")]
 
-## A little history
+Arakanese prominently uses the /r/ sound, which has merged to the /j/ sound in standard Burmese. This is particularly interesting because the use of the ‘r’ sound is something that is avoided with Burmese speakers. For example, Burmese pronounce the words, “tiger” or “to hear” (both words have similar pronunciation) as “kya,” where in Arakanese, it would be pronounced as, “kra.”[\[5]](https://en.wikipedia.org/wiki/Arakanese_language#cite_note-5) Also, Arakanese has merged various vowel sounds like ဧ (\[e]) vowel to ဣ (\[i]). Hence, a word like "blood" is သွေး (\[θwé]) in standard Burmese while it pronounced \[θwí] in Arakanese. According to speakers of standard Burmese, Arakanese only has an intelligibility of seventy-five percent with Burmese.[\[6]](https://en.wikipedia.org/wiki/Arakanese_language#cite_note-6) Moreover, there is less voicing in Arakanese than in Standard Burmese, occurring only when the consonant is unaspirated.[\[7]](https://en.wikipedia.org/wiki/Arakanese_language#cite_note-FOOTNOTEOkell19954,_14-7) Unlike in Burmese, voicing never shifts from \[θ] to \[ð].[\[8]](https://en.wikipedia.org/wiki/Arakanese_language#cite_note-FOOTNOTEOkell199514-8)
 
-The Blue Mountains are considered by many to be a hiker's and camper's paradise. The traditional Blue Mountain trek is a 7-mile hike to the peak and consists of a 3,000-foot increase in elevation. Jamaicans prefer to reach the peak at sunrise, thus the 3–4 hour hike is usually undertaken in darkness. Since the sky is usually very clear in the mornings, Cuba can be seen in the distance.
+Because Arakanese has preserved the /r/ sound, the /-r-/ medial (preserved only in writing in Standard Burmese with the diacritic ြ) is still distinguished in the following consonant clusters: /ɡr- kr- kʰr- ŋr- pr- pʰr- br- mr- m̥r- hr-/.
 
->Some of the plants found on the Blue Mountain cannot be found anywhere else in the world and they are often of a dwarfed sort.
+The Arakanese dialect has a higher frequency of open vowels weakening to /ə/. An example is the word for "salary," (လခ) which is \[la̰ɡa̰] in standard Burmese, but \[ləkha̰] in Arakanese.
 
-This is mainly due to the cold climate which inhibits growth. The small coffee farming communities of Claverty Cottage and Hagley Gap are located near the peak.
-
-## What you need to know before trying
-
-Jamaican Blue Mountain Coffee or Jamaica Blue Mountain Coffee is a classification of coffee grown in the Blue Mountains of Jamaica. The best lots of Blue Mountain coffee are noted for their mild flavor and lack of bitterness. Over the past few decades, this coffee has developed a reputation that has made it one of the most expensive and sought-after coffees in the world. Over 80% of all Jamaican Blue Mountain Coffee is exported to Japan. In addition to its use for brewed coffee, the beans are the flavor base of Tia Maria coffee liqueur.
-
-Jamaican Blue Mountain Coffee is a globally protected certification mark, meaning only coffee certified by the Coffee Industry Board of Jamaica can be labeled as such. It comes from a recognized growing region in the Blue Mountain region of Jamaica, and its cultivation is monitored by the Coffee Industry Board of Jamaica.
-
-The Blue Mountains are generally located between Kingston to the south and Port Antonio to the north. Rising 7,402 ft, they are some of the highest mountains in the Caribbean. The climate of the region is cool and misty with high rainfall. The soil is rich, with excellent drainage. This combination of climate and soil is considered ideal for coffee.
+The following are [consonantal](https://en.wikipedia.org/wiki/Consonant "Consonant"), [vowel](https://en.wikipedia.org/wiki/Vowel "Vowel") and [rhyme](https://en.wikipedia.org/wiki/Rhyme "Rhyme") differences from Standard Burmese found in the Arakanese [dialect](https://en.wikipedia.org/wiki/Dialect "Dialect"):[\[9]](https://en.wikipedia.org/wiki/Arakanese_language#cite_note-FOOTNOTEOkell1995-9)[\[10]](https://en.wikipedia.org/wiki/Arakanese_language#cite_note-FOOTNOTEHoughton1897453%E2%80%9361-10)

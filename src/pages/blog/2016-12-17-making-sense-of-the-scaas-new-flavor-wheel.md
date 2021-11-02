@@ -1,33 +1,34 @@
 ---
 templateKey: blog-post
-title: Making sense of the SCAA’s new Flavor Wheel
+title: History of Rakhine
 date: 2016-12-17T15:04:10.000Z
+description: Rakhine State occupies the northern coastline of Myanmar up to the
+  border with Bangladesh and corresponds to the historical Kingdom of Arakan.
+  The history of Rakhine is divided into 7 parts - the independent kingdoms of
+  Dhanyawadi, Waithali, Lemro, Mrauk U, Burmese occupation from 1785 to 1826,
+  British rule from 1826 to 1948 and as a part of independent Burma from 1948.
 featuredpost: false
-featuredimage: /img/flavor_wheel.jpg
-description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
+featuredimage: /img/nice01.png
 tags:
   - flavor
   - tasting
 ---
-![flavor wheel](/img/flavor_wheel.jpg)
+![](/img/nice01.png "he old capital of Rakhine (Arakan) ")
 
-The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
+Mrauk U may seem to be a sleepy village today but not so long ago it was the capital of the Arakan empire where Portuguese, Dutch and French traders rubbed shoulders with the literati of Bengal and Mughal princes on the run. Mrauk U was declared capital of the Arakanese kingdom in 1431. At its peak, Mrauk U controlled half of Bangladesh, modern day Rakhine State (Arakan) and the western part of Lower Burma. Pagodas and temples were built as the city grew, and those that remain are the main attraction of Mrauk-U. From the 15th to 18th centuries, Mrauk U was the capital of a mighty Arakan kingdom, frequently visited by foreign traders (including Portuguese and Dutch), and this is reflected in the grandeur and scope of the structures dotted around its vicinity.\[[1]](https://en.wikipedia.org/wiki/History_of_Rakhine#cite_note-1)
 
-While this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.
+The old capital of Rakhine (Arakan) was first constructed by King Min Saw Mon in the 15th century, and remained its capital for 355 years. The golden city of Mrauk U became known in Europe as a city of oriental splendor after Friar Sebastian Manrique visited the area in the early 17th century. Father Manrique's vivid account of the coronation of King Thiri Thudhamma in 1635 and about the Rakhine Court and intrigues of the Portuguese adventurers fire the imagination of later authors. The English author Maurice Collis who made Mrauk U and Rakhine famous after his book, The Land of the Great Image based on Friar Manrique' travels in Arakan.
 
-## What the updates mean to you
+The Mahamuni Buddha Image, which is now in Mandalay, was cast and venerated 15 miles from Mrauk U where another Mahamuni Buddha Image flanked by two other Buddha images. Mrauk U can be easily reached via Sittwe, the capital of Rakhine State. From Yangon there are daily flights to Sittwe and there are small private boats as well as larger public boats plying through the Kaladan river to Mrauk U. It is only 45 miles from Sittwe and the seacoast. To the east of the old city is the famous Kispanadi stream and far away the Lemro river. The city area used to have a network of canals. Mrauk U maintains a small archaeological Museum near Palace site, which is right in the centre of town. As a prominent capital Mrauk U was carefully built in a strategic location by levelling three small hills. The pagodas are strategically located on hilltops and serve as fortresses; indeed they are once used as such in times of enemy intrusion. There are moats, artificial lakes and canals and the whole area could be flooded to deter or repulse attackers. There are innumerable pagodas and Buddha images around the old city and the surrounding hills. While some are still being used as places of worship today, others are in ruins, some of which are now being restored to their original splendor.\[[2]](https://en.wikipedia.org/wiki/History_of_Rakhine#cite_note-2)
 
-The Specialty Coffee Association of America (SCAA), founded in 1982, is a non-profit trade organization for the specialty coffee industry. With members located in more than 40 countries, SCAA represents every segment of the specialty coffee industry, including:
+The city eventually reached a size of 160,000 in the early 17th century.\[[3]](https://en.wikipedia.org/wiki/History_of_Rakhine#cite_note-3) Mrauk U served as the capital of the Mrauk U kingdom and its 49 kings until the conquest of the kingdom by the Burmese [Konbaung Dynasty](https://en.wikipedia.org/wiki/Konbaung_Dynasty "Konbaung Dynasty") in 1784.
 
-* producers
-* roasters
-* importers/exporters
-* retailers
-* manufacturers
-* baristas
+### Trading city[[edit](https://en.wikipedia.org/w/index.php?title=History_of_Rakhine&action=edit&section=5 "Edit section: Trading city")]
 
-For over 30 years, SCAA has been dedicated to creating a vibrant specialty coffee community by recognizing, developing and promoting specialty coffee. SCAA sets and maintains quality standards for the industry, conducts market research, and provides education, training, resources, and business services for its members.
+Due to its proximity to the [Bay of Bengal](https://en.wikipedia.org/wiki/Bay_of_Bengal "Bay of Bengal"), Mrauk U developed into an important regional trade hub, acting as both a back door to the Burmese hinterland and also as an important port along the eastern shore of the Bay of Bengal. It became a transit point for goods such as rice, ivory, elephants, tree sap and deer hide from Ava in Burma, and of cotton, slaves, horses, cowrie, spices and textiles from Bengal, India, Persia and Arabia. Alongside Pegu and later Syriam, it was one of the most important ports in Burma until the 18th century.[*[citation needed](https://en.wikipedia.org/wiki/Wikipedia:Citation_needed "Wikipedia:Citation needed")*]
 
-Coffee cupping, or coffee tasting, is the practice of observing the tastes and aromas of brewed coffee. It is a professional practice but can be done informally by anyone or by professionals known as "Q Graders". A standard coffee cupping procedure involves deeply sniffing the coffee, then loudly slurping the coffee so it spreads to the back of the tongue.
+The city also traded with non-Asian powers such as [Portugal](https://en.wikipedia.org/wiki/Portugal "Portugal") and then the [VOC](https://en.wikipedia.org/wiki/Dutch_East_India_Company "Dutch East India Company") of [the Netherlands](https://en.wikipedia.org/wiki/The_Netherlands "The Netherlands"). The VOC established trading relations with the Arakanese in 1608 after the Portuguese fell in favour due to the lack of loyalty of Portuguese mercenaries, such as [Filipe de Brito e Nicote](https://en.wikipedia.org/wiki/Filipe_de_Brito_e_Nicote "Filipe de Brito e Nicote") in the service of the Arakanese king. The VOC established a permanent factory in Mrauk U in 1635, and operated in Arakan until 1665.\[[4]](https://en.wikipedia.org/wiki/History_of_Rakhine#cite_note-4)
 
-The coffee taster attempts to measure aspects of the coffee's taste, specifically the body (the texture or mouthfeel, such as oiliness), sweetness, acidity (a sharp and tangy feeling, like when biting into an orange), flavour (the characters in the cup), and aftertaste. Since coffee beans embody telltale flavours from the region where they were grown, cuppers may attempt to identify the coffee's origin.
+At its [zenith](https://en.wikipedia.org/wiki/Zenith "Zenith"), Mrauk U was the centre of a kingdom which stretched from the shores of the Ganges river to the western reaches of the Ayeyarwaddy River. According to popular Arakanese legend, there were 12 'cities of the Ganges' which constitute areas around the borders of present-day [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh "Bangladesh") which were governed by Mrauk U, including areas in the [Chittagong Division](https://en.wikipedia.org/wiki/Chittagong_Division "Chittagong Division"). During that period, its kings minted coins inscribed in [Arakanese](https://en.wikipedia.org/wiki/Arakanese_language "Arakanese language"), [Arabic](https://en.wikipedia.org/wiki/Arabic "Arabic") and [Bengali](https://en.wikipedia.org/wiki/Bengali_language "Bengali language").
+
+Much of Mrauk U's historical description is drawn from the writings of Friar [Sebastian Manrique](https://en.wikipedia.org/w/index.php?title=Sebastian_Manrique&action=edit&redlink=1 "Sebastian Manrique (page does not exist)"), a Portuguese [Augustinian](https://en.wikipedia.org/wiki/Augustinians "Augustinians") monk who resided in Mrauk U from 1630 to 1635.
