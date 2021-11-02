@@ -86,8 +86,8 @@ main:
     alt: A green cup of a coffee on a wooden table
     image: /img/nice02.png
   image3:
-    alt: Coffee beans
-    image: /img/products-grid1.jpg
+    alt: cultural activities
+    image: /img/52920251_2193815120676140_8960610211177955328_n.jpeg
 testimonials: []
 full_image: /img/drone-view.png
 pricing:
