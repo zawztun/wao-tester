@@ -31,19 +31,29 @@ intro:
 
         WAO have to donate on the way to the Ann and Kyauktaw Township.
     - image: /img/109715263_3267383196652655_6496118340244915259_n.jpeg
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+      text: >-
+        World Arakanese Organization (WAO-USA) made a meritorious deed to the
+        two IDPs camps with the generous donors on July 26, 2020.
+
+        WAO donated rice, dried-fish, dried-chilli, pea, onion, pepper, garlic and some cash at the IDPs camp of Shwe Pray Tha Monastery, Kyae Taw Village and at the Aung Chan Tha IDPs camp in Byine Phyu Village, Sittwey Township, Arakan.
+
+        Constantly, donation will be offered to the Shwe Pray Aye IDPs camp, Byine Phyu Village led by Dr. Aye Chan, a patron of WAO, on July 28, 2020.
+
+        WAO have to donate on the way to the Ann and Kyauktaw Township.
     - image: /img/nice01.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+      text: >+
+        To preserve and promote Arakanese language, literature, traditions and
+        cultural heritages that existed for many centuries;
+
+        To provide the humanitarian aids to Arakanese who suffer from natural disasters or economic hardships;
+
+        To support the social, community development, educational and cultural activities of Arakanese community by all means.
+
+        To establish and encourage an open exchange of opinions, ideas and information between individuals, groups or communities of Arakan concerning social, economic, educational, health, religious and ethnic issues. But no discussion shall be offensive to either individual or any group or organization.
+
+        To encourage the professional improvement of its members providing financial and intellectual assistance. 
+
+
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
@@ -52,11 +62,19 @@ intro:
     knowledge to anyone. This is an edit via identity...
 main:
   heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+  description: >+
+    To preserve and promote Arakanese language, literature, traditions and
+    cultural heritages that existed for many centuries;
+
+    To provide the humanitarian aids to Arakanese who suffer from natural disasters or economic hardships;
+
+    To support the social, community development, educational and cultural activities of Arakanese community by all means.
+
+    To establish and encourage an open exchange of opinions, ideas and information between individuals, groups or communities of Arakan concerning social, economic, educational, health, religious and ethnic issues. But no discussion shall be offensive to either individual or any group or organization.
+
+    To encourage the professional improvement of its members providing financial and intellectual assistance. 
+
+
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/wao01.jpeg
@@ -69,9 +87,17 @@ main:
 testimonials: []
 full_image: /img/drone-view.png
 pricing:
-  heading: Monthly subscriptions
-  description: We make it easy to make great coffee a part of your life. Choose
-    one of our monthly subscription plans to receive great coffee at your
-    doorstep each month. Contact us about more details and payment info.
+  heading: Arakanese
+  description: "To preserve and promote Arakanese language, literature, traditions
+    and cultural heritages that existed for many centuries; To provide the
+    humanitarian aids to Arakanese who suffer from natural disasters or economic
+    hardships; To support the social, community development, educational and
+    cultural activities of Arakanese community by all means. To establish and
+    encourage an open exchange of opinions, ideas and information between
+    individuals, groups or communities of Arakan concerning social, economic,
+    educational, health, religious and ethnic issues. But no discussion shall be
+    offensive to either individual or any group or organization. To encourage
+    the professional improvement of its members providing financial and
+    intellectual assistance. "
   plans: []
 ---
