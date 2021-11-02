@@ -103,5 +103,10 @@ pricing:
     offensive to either individual or any group or organization. To encourage
     the professional improvement of its members providing financial and
     intellectual assistance. "
-  plans: []
+  plans:
+    - plan: Test01
+      price: "000"
+      description: Test
+      items:
+        - "1"
 ---
