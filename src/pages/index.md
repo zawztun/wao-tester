@@ -26,11 +26,15 @@ intro:
   blurbs:
     - image: /img/nice02.png
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+        Arakan became one of the earliest regions in Southeast Asia to embrace
+        Dharmic religions, particularly Buddhism and Hinduism. Islam arrived
+        with Arab merchants in the 8th century. The Kingdom of Mrauk U emerged
+        as an independent Arakanese kingdom for 300 years. During the Age of
+        Discovery and Bengal Subah's major economic development, Arakan caught
+        the interest of the Dutch East India Company and the Portuguese Empire.
+        In the middle of the 17th century, it was dominated by the Islamic
+        Mughal Emperor Aurangzeb. Arakan steadily declined from the 18th century
+        onwards after its loss to the Mughal Empire.
     - image: /img/nyc-dance.png
       text: >+
         BASED on Theravada Buddhism, the Rakhine culture, literature, music and
@@ -61,12 +65,17 @@ intro:
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone. This is an edit via identity...
 main:
-  heading: Great coffee with no compromises
+  heading: Rakhine State
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+    In 1982, the Burmese nationality law stripped many inhabitants of the region
+    of their citizenship. In 1989, the Burmese military junta changed the
+    official name of Burma to Myanmar. In the 1990s, the junta changed the name
+    of Arakan State to Rakhine State — a name reflecting the dominance of the
+    Rakhine majority.[2] Many in the Rohingya minority strongly opposed the
+    change. The region has seen conflict between the Burmese state, Rakhine
+    nationalists and Rohingya rebels. In more recent times, Rakhine State has
+    been notable for the exodus of refugees into neighboring countries because
+    of military operations by the Tatmadaw (Myanmar Armed Forces).
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products-grid3.jpg
