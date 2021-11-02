@@ -65,7 +65,7 @@ intro:
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone. This is an edit via identity...
 main:
-  heading: Great coffee with no compromises
+  heading: Arakanese language, literature, traditions
   description: >+
     To preserve and promote Arakanese language, literature, traditions and
     cultural heritages that existed for many centuries;
