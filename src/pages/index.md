@@ -79,12 +79,17 @@ intro:
 
 
         In 1660, Shah Shuja, the brother of Emperor Aurangzeb and a claimant of the Peacock Throne, received asylum in Mrauk U. Members of Shuja's entourage were recruited in the Arakanese army and court. They were kingmakers in Arakan until the Burmese conquest.[23] Arakan suffered a major defeat to the forces of Mughal Bengal during the Battle of Chittagong in 1666, when Mrauk U lost control of southeast Bengal. The Mrauk U dynasty's reign continued until the 18th century.
-  heading: Who we are
+  heading: English Language Proficiency  Sponsored by WAO
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    World Arakanese Organization is now collecting fund for English Language
+    Proficiency Class ( General English Class program) of RakkhitA Academy by
+    Win Zaw Htun, Founder and President.
+
+    The program is a marvellious opportunity to students who are thirsting for education in Arakan.
+
+    Earning in education is the most important, effective, and expensive element and it can change our family, community, and country.
+
+    According to Nelson Mandela, Former President of South Africa, “ Education is the most powerful weapon which you can use to change the world.”
 main:
   heading: Rakhine State
   description: >
